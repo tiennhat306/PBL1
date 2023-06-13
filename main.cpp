@@ -590,4 +590,3 @@ printf("\n  ");
 }
 while(chon2 == 1); 
 }
-  
